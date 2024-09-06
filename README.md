@@ -1,2 +1,3 @@
 # Credit-card-approval
-this is a machine learning project,in this project we used logistic regression,knn,svm,random forest algorthims
+In this project, we will explore how various factors affect credit card approval rates and use predictive models to improve the accuracy of credit card approval predictions.
+
