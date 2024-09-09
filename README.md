@@ -1,3 +1,6 @@
-# Credit-card-approval
-In this project, we will explore how various factors affect credit card approval rates and use predictive models to improve the accuracy of credit card approval predictions.
+# Credit-card-approval using machine learning
+Completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP). 
+# Glimpse of the project:
+Our Credit-card-approval project involves defining the problem, collecting and preprocessing data, performing exploratory data analysis (EDA), selecting and training a model, and evaluating it.
+Once validated, the model is tested, deployed, and monitored for performance.
 
